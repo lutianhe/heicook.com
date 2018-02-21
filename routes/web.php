@@ -28,4 +28,7 @@ Route::group(['prefix' => 'admin'], function () {
     Route::get('/recipe', function () {
         return view('admin.recipe.index');
     });
+    Route::get('/recipe/edit', function () {
+        return view('admin.recipe.edit');
+    });
 });

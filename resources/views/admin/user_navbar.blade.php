@@ -13,7 +13,7 @@
                     <li><!-- start message -->
                         <a href="#">
                             <div class="pull-left">
-                                <img src="img/avatar3.png" class="img-circle" alt="User Image"/>
+                                <img src="/admin/img/avatar3.png" class="img-circle" alt="User Image"/>
                             </div>
                             <h4>
                                 Support Team
@@ -25,7 +25,7 @@
                     <li>
                         <a href="#">
                             <div class="pull-left">
-                                <img src="img/avatar2.png" class="img-circle" alt="user image"/>
+                                <img src="/admin/img/avatar2.png" class="img-circle" alt="user image"/>
                             </div>
                             <h4>
                                 Director Design Team
@@ -37,7 +37,7 @@
                     <li>
                         <a href="#">
                             <div class="pull-left">
-                                <img src="img/avatar.png" class="img-circle" alt="user image"/>
+                                <img src="/admin/img/avatar.png" class="img-circle" alt="user image"/>
                             </div>
                             <h4>
                                 Developers
@@ -49,7 +49,7 @@
                     <li>
                         <a href="#">
                             <div class="pull-left">
-                                <img src="img/avatar2.png" class="img-circle" alt="user image"/>
+                                <img src="/admin/img/avatar2.png" class="img-circle" alt="user image"/>
                             </div>
                             <h4>
                                 Sales Department
@@ -61,7 +61,7 @@
                     <li>
                         <a href="#">
                             <div class="pull-left">
-                                <img src="img/avatar.png" class="img-circle" alt="user image"/>
+                                <img src="/admin/img/avatar.png" class="img-circle" alt="user image"/>
                             </div>
                             <h4>
                                 Reviewers
