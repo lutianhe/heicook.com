@@ -14,3 +14,21 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::group(['prefix' => 'user'], function () {
+    Route::get('/index', function () {
+        return view('user.tpl.index');
+    });
+    Route::get('/tag', function () {
+        return view('admin.tag.index');
+    });
+    Route::get('/user', function () {
+        return view('admin.user.index');
+    });
+    Route::get('/recipe', function () {
+        return view('admin.recipe.index');
+    });
+    Route::get('/recipe/edit', function () {
+        return view('admin.recipe.edit');
+    });
+});
